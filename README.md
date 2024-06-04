@@ -1,5 +1,5 @@
-Internal Lab exam for DS-II-II Section A ------08/05/2024-----9.00am to 10.50am
-Internal Lab exam for DS-II-II Section B ------12/05/2024-----2.20pm to 4.00pm
+Internal Lab exam for DS-II-II Section A ------08/06/2024-----9.00am to 10.50am
+Internal Lab exam for DS-II-II Section B ------12/06/2024-----2.20pm to 4.00pm
 
 Question will be given as per the roll numbers in the github repository on time. 
 It is totally based on two assignments html-css & javascript.
